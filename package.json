@@ -1,0 +1,13 @@
+{
+  "name": "frozzare.brackets-rust",
+  "title": "Rust for Brackets",
+  "description": "Adds support for Rust language via CodeMirror to Brackets",
+  "homepage": "https://github.com/frozzare/brackets-rust",
+  "version": "1.0.0",
+  "author": "Fredrik Forsmo <fredrik.forsmo@gmail.com> (http://forsmo.me)",
+  "license": "MIT",
+  "categories": "language",
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
